@@ -1,4 +1,4 @@
-# Mahkeme-Kararlar-nda-Anlamsal-Arama
+# Mahkeme_kararlarinda_anlamsal_arama
 Türkçe mahkeme kararlarında anlamsal arama | Semantic search over Turkish court decisions (legal tech)
 
 Bu proje, Türkçe mahkeme kararları üzerinde anlamsal arama yapan basit bir legal tech prototipidir. Kullanıcı sorusunu günlük dille yazar; sistem, soruyla anlamca en çok örtüşen kararları benzerlik puanıyla birlikte listeler.
